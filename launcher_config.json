@@ -1,5 +1,5 @@
 {
-  "project_name": "Brilliant RP",
+  "project_name": "Vanter Mobile",
   "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
   "background_url": "",
 
@@ -16,7 +16,7 @@
 
   "servers": [
     {
-      "name": "Brilliant RP #1",
+      "name": "Vanter Mobile #1",
       "ip": "80.242.59.112",
       "port": 4485,
       "x2": false,
